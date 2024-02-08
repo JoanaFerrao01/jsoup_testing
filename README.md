@@ -15,7 +15,7 @@ I'm navigating the website by searching html elements by their class. This poses
 - If the website changes the class name, the project can't find the elements; So you'd have to go look for and change the class names in the code.
 <br><br>
 
-<i>Currently, I have not searched for a way to fix those.. If I do find it I'll update this :)</i>
+<i>Give that JSoup searches based on html elements and attributes, I haven't found a way arround this issue. Changes in the website structure will result in having to change our code, unfortunately. If I find a way arround this, I will update the project, but so far I believe it's unlikely...</i>
 
 ## References
 <a id="1">[1]</a> 
